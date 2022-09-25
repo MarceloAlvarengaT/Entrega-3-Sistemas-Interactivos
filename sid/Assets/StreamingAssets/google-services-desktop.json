@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "647304886043",
+    "firebase_url": "https://entregasid-a2a41-default-rtdb.firebaseio.com",
+    "project_id": "entregasid-a2a41",
+    "storage_bucket": "entregasid-a2a41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647304886043:android:7b53c519834d3a25fd45be",
+        "android_client_info": {
+          "package_name": "com.entregaSID.Marcelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647304886043-dirbqhc8f0v2c3isqfflrd5tm3tuiq1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8NnZvEB4rnlJEgPnhEB_i2YsXZM6iLmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647304886043-dirbqhc8f0v2c3isqfflrd5tm3tuiq1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
